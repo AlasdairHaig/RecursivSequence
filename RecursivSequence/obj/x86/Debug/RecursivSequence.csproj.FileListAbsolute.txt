@@ -1,0 +1,4 @@
+c:\users\b.wood\documents\visual studio 2010\Projects\RecursivSequence\RecursivSequence\bin\Debug\RecursivSequence.exe
+c:\users\b.wood\documents\visual studio 2010\Projects\RecursivSequence\RecursivSequence\bin\Debug\RecursivSequence.pdb
+c:\users\b.wood\documents\visual studio 2010\Projects\RecursivSequence\RecursivSequence\obj\x86\Debug\RecursivSequence.exe
+c:\users\b.wood\documents\visual studio 2010\Projects\RecursivSequence\RecursivSequence\obj\x86\Debug\RecursivSequence.pdb
